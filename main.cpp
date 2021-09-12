@@ -1,7 +1,6 @@
 #include <iostream>
 #include "circulararray.h"
 #include "tester.h"
-#include <string>
 
 using namespace std;
 
